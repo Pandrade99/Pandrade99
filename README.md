@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1>Hi, I'm Peter! <br/><a href="https://github.com/Pandrade99">Programmer</a>, <a href="https://www.linkedin.com/in/peter-m-andrade/">Web Development Professional</a>
 
-<!--
-**Pandrade99/Pandrade99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Software Development Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  
+- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+ 
+- <b>PowerShell</b>
+ 
+- <b>C# (.NET Desktop Applications)</b>
+ 
+- <b>Python</b>
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> 🤳 Connect with me:</h2>
+
+Social Media links coming soon!

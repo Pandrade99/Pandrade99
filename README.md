@@ -5,8 +5,8 @@
 - <b>Online Shop Mock-up</b><br />
   - [https://github.com/Pandrade99/Mock-TF2-Item-Storefront](https://github.com/Pandrade99/Mock-TF2-Item-Storefront-)
   
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
- 
+- <b>Full Stack Web App (Docker, Node, Yarn, and Machine Learning Components)</b><br />
+   - https://github.com/UMD-ELW-Group-Campus-Fabric-Community
 - <b>PowerShell</b>
  
 - <b>C# (.NET Desktop Applications)</b>
